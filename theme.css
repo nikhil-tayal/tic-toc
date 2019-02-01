@@ -1,0 +1,36 @@
+
+#1{
+	border-left:0px;
+	border-top:0px;
+}
+#2{
+	border-top:0px;
+}
+#3{
+	border-right:0px;
+	border-top:0px;
+}
+#4{
+	border-left:0px;
+}
+#6{
+	border-right:0px;
+	
+}
+#7{
+	border-left:0px;
+	border-bottom:0px;
+}#8{
+	
+	border-top:0px
+}#9{
+	border-right:0px;
+	border-bottom:0px
+}
+input
+{
+	height:20px;
+	width: 10px;
+	background-image:green;
+	
+}
